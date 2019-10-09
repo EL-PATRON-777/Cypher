@@ -1,6 +1,3 @@
-# Cypher
-#A simple Caesar cipher, using python.
-
 from tkinter import *
 
 #Variable
